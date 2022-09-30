@@ -8,6 +8,7 @@ public class ServersideSibkmApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ServersideSibkmApplication.class, args);
+                System.out.println("Serverside is Running.....");
 	}
 
 }
